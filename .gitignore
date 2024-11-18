@@ -1,0 +1,26 @@
+# Environnement virtuel
+.venv/
+venv/
+ENV/
+
+# Fichiers Python compilés
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# IDEs et éditeurs
+.vscode/
+*.swp
+*.swo
+
+# Fichiers système
+.DS_Store
+
+# Ignorer le contenu du dossier data mais garder le dossier
+data/*
+!data/.gitkeep
