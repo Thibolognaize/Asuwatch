@@ -70,11 +70,11 @@ Structure attendue des dossiers :
 ```
 Nom_de_la_Serie/
 ├── Saison1/
-│   ├── Episode1.mp4
-│   └── Episode2.mp4
+│   ├── Episode1.mkv
+│   └── Episode2.mkv
 └── S02/
-    ├── Episode1.mp4
-    └── Episode2.mp4
+    ├── Episode1.mkv
+    └── Episode2.mkv
 ```
 
 ## 🐛 Gestion des Erreurs
@@ -118,4 +118,4 @@ Le programme inclut une gestion complète des erreurs pour :
 
 ## 📄 Licence
 
-Ce projet est sous licence MIT (à confirmer).
+Ce projet est sous licence MIT.
